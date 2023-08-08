@@ -38,26 +38,32 @@ Tested only for the currently active users screens at the firm no problems at th
 
 <h1>ADMIN MAIN PAGE</h1>
 
-<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/0dbdb2e8-c98c-4471-b747-f58db70c4baa'/>
+
+<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/65546ce0-5852-4404-b30b-624267f2056a'/>
 <h1>DESIGN</h1>
 
-<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/90ee3af4-4fac-4f28-a31c-2aa421028932'/>
+<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/eeb00eef-27cd-4fbf-8c1c-98462e2a5ca1'/>
 
 <h1>CREATING REQUEST</h1>
 
-<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/e03207d5-06b5-424e-b9c2-fe4a6d4e30bb'/>
+<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/4b8cf167-7d99-449d-be69-352e9d4791a8'/>
 
 <h1>REQUEST MANAGEMENT PAGE(CLIENT)</h1>
 <p>Live chat created with SSE(server send events) adapted to .NET CORE </p>
-<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/2987efd3-96e2-4411-8ad8-919514167246'/>
+
+
+<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/4c319ff2-18f8-4707-accc-94536eead8bc'/>
 
 <h1>REQUEST MANAGEMENT PAGE(ADMIN)</h1>
 
-<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/74a75726-5590-44a8-a16e-76b00f73a7c9'/>
+<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/7e8a1990-56a1-45a0-a07a-d9b1f74fe182'/>
 
 <h1>REQUEST LISTING</h1>
+
 <p>Quick filters on the top filtering list using javascript without post/get actions</p>
-<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/9b33c48b-2b9e-4877-8d42-3d3e72c4c923'/>
+<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/6c69aba5-aaa2-4b4c-a75b-80488471bb7e'/>
 
 <h1>DETAILED POST ACTION FILTER</h1>
-<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/c9091852-6324-4c65-aae4-eaa13f46d88f'/>
+
+
+<img src='https://github.com/AyberkErdem/MyCore/assets/62530992/31549eb6-1f1f-482b-9c2f-37b0472be363'/>
