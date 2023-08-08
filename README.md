@@ -49,8 +49,7 @@ Tested only for the currently active users screens at the firm no problems at th
 <img src='https://github.com/AyberkErdem/MyCore/assets/62530992/4b8cf167-7d99-449d-be69-352e9d4791a8'/>
 
 <h1>REQUEST MANAGEMENT PAGE(CLIENT)</h1>
-<p>Live chat created with SSE(server send events) adapted to .NET CORE </p>
-
+<p>Live chat created with SSE(server send events) adapted to .NET CORE  and with partial view</p>
 
 <img src='https://github.com/AyberkErdem/MyCore/assets/62530992/4c319ff2-18f8-4707-accc-94536eead8bc'/>
 
